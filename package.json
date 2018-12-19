@@ -1,0 +1,24 @@
+{
+  "name": "parcel-browser-field",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./index.html --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danmarshall/parcel-browser-field.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "mjolnir.js": "^2.0.2",
+    "parcel": "^1.11.0"
+  },
+  "bugs": {
+    "url": "https://github.com/danmarshall/parcel-browser-field/issues"
+  },
+  "homepage": "https://github.com/danmarshall/parcel-browser-field#readme"
+}
